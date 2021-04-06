@@ -3,6 +3,8 @@
   "task": [
     {
       "config": "0 8-23 * * * tasks/lxk0301_live_redrain.js ,tag=超级红包雨,img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_live_redrain.png, enabled=true"
+    },{
+      "config": "10 14 * * * tasks/xmSports.js, tag=小米运动, img-url=https://raw.githubusercontent.com/58xinian/icon/master/xmyd.png, enabled=true"
     }
   ],
   "description": "一些自用订阅"
